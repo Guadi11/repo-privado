@@ -10,7 +10,7 @@ El esquema de las definiciones consiste en una enumeración de los términos, y 
 * Aclaraciones importantes en caso de ser necesario
 * Entidades relacionadas con el concepto
 
-**Terminología**
+### *Terminología* ###
 
 ### Registro 
 Entidad central del sistema. Representa los datos personales de una persona que tiene o puede tener acceso a la BNPB (nombre, documento, nacionalidad, domicilio, foto, observaciones, etc.).
@@ -126,7 +126,7 @@ Para acceder, debe autenticarse utilizando un identificador único (idealmente D
 
 **Entidades relacionadas:** Organización, Registro.
 
-### Organizacion 
+### Organización 
 Define a qué oficina, departamento o área específica de trabajo (por ejemplo: Oficina de Pases, Oficina de Zona Restringida, Oficina de Vinculaciones) pertenece un Usuario .  
 
 Esta pertenencia determina los roles, atributos y el conjunto de permisos específicos que habilitan o deniegan funcionalidades particulares dentro del sistema, garantizando la seguridad bajo el esquema ABAC (Control de Acceso Basado en Atributos) .  
